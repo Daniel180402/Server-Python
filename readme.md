@@ -24,6 +24,9 @@ FFmpeg is required for handling audio files.
 
 You can use [this guide](https://phoenixnap.com/kb/ffmpeg-windows) to help you install FFmpeg on Windows.
 
+For macOS use: brew install ffmpeg
+
+
 ## **Setting Up the Environment**
 
 ### **Install Required Python Packages**
